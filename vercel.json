@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/proyectos/:path*",
-      "destination": "https://access-5017862025.webspace-host.com/proyectos/:path*"
+      "destination": "http://216.198.79.1/proyectos/:path*"
     },
     {
-      "source": "/images/:path*",
-      "destination": "https://access-5017862025.webspace-host.com/images/:path*"
+      "source": "/imagenes/:path*",
+      "destination": "http://216.198.79.1/imagenes/:path*"
     }
   ]
 }
