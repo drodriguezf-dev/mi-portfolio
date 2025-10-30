@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/proyectos/:path*",
-      "destination": "https://dferretedev.com.finalhosting.ionos.es/proyectos/:path*"
+      "destination": "https://access-5017862025.webspace-host.com/proyectos/:path*"
     },
     {
       "source": "/images/:path*",
-      "destination": "https://dferretedev.com.finalhosting.ionos.es/images/:path*"
+      "destination": "https://access-5017862025.webspace-host.com/images/:path*"
     }
   ]
 }
