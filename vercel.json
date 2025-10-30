@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/proyectos/:path*",
+      "destination": "https://dferretedev.com.finalhosting.ionos.es/proyectos/:path*"
+    },
+    {
+      "source": "/images/:path*",
+      "destination": "https://dferretedev.com.finalhosting.ionos.es/images/:path*"
+    }
+  ]
+}
