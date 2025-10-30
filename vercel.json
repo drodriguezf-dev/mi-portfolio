@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/proyectos/:path*",
+      "destination": "http://archivos.dferretedev.com/proyectos/:path*"
+    },
+    {
+      "source": "/imagenes/:path*",
+      "destination": "http://archivos.dferretedev.com/imagenes/:path*"
+    }
+  ]
+}
