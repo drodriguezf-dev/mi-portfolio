@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/proyectos/:path*",
-      "destination": "http://archivos.dferretedev.com/proyectos/:path*"
+      "destination": "https://archivos.dferretedev.com/proyectos/:path*"
     },
     {
       "source": "/imagenes/:path*",
-      "destination": "http://archivos.dferretedev.com/imagenes/:path*"
+      "destination": "https://archivos.dferretedev.com/imagenes/:path*"
     }
   ]
 }
