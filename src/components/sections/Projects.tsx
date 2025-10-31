@@ -16,7 +16,7 @@ import {
 
 // Tech icons y colores
 const techConfig: Record<string, { color: string; icon: React.ComponentType<React.SVGProps<SVGSVGElement>> | null }> = {  "Next.js": { color: "#000000", icon: SiNextdotjs },
-  "React": { color: "#1b2122ff", icon: SiReact },
+  "React": { color: "#61DAFB", icon: SiReact },
   "TypeScript": { color: "#3178C6", icon: SiTypescript },
   "PHP": { color: "#777BB4", icon: SiPhp },
   "MySQL": { color: "#4479A1", icon: SiMysql },
