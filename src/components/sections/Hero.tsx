@@ -63,7 +63,7 @@ export default function Hero() {
             />
             {/* Photo */}
             <Image
-              src="https://dferretedev.com/images/fotoPortfolio.webp"
+              src="https://archivos.dferretedev.com/images/fotoPortfolio.webp"
               alt="David Rodríguez Ferrete"
               width={128}
               height={128}
@@ -151,7 +151,7 @@ export default function Hero() {
           <div className="flex flex-wrap items-center justify-center gap-4">
             {/* Ver CV button */}
             <a
-              href="https://dferretedev.com/CV_DavidRodriguezFerrete.pdf"
+              href="https://archivos.dferretedev.com/CV_DavidRodriguezFerrete.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="group px-6 py-4 bg-white/5 backdrop-blur-sm text-white rounded-lg font-semibold border border-white/10 hover:bg-white/10 transition-all duration-300 flex items-center gap-3 hover:scale-105"
