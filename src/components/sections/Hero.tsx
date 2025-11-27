@@ -63,7 +63,7 @@ export default function Hero() {
             />
             {/* Photo */}
             <Image
-              src="https://archivos.dferretedev.com/images/fotoPortfolio.webp"
+              src="https://archivos.dferretedev.com/fotoPortfolio.webp"
               alt="David Rodríguez Ferrete"
               width={128}
               height={128}
